@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="las_dark_bg">#0D0D0D</color>
+    <color name="las_gold">#D4A857</color>
+    <color name="las_gold_light">#E8C878</color>
+    <color name="white">#FFFFFF</color>
+    <color name="las_bubble_user">#2A2A2A</color>
+    <color name="las_bubble_bot">#333333</color>
+</resources>
